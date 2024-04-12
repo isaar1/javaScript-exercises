@@ -1,1 +1,3 @@
-# javaScript-exercises
+# JavaScript Exercises
+
+Welcome to the JavaScript exercises!
